@@ -1,0 +1,18 @@
+﻿  ChatData.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\chatdata.cpp(63): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  Command.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\command.cpp(91): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  Database.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\database.cpp(141): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  ImageData.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\imagedata.cpp(52): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  MouseData.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\mousedata.cpp(61): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  PacketData.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\packetdata.cpp(119): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  Socket.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\socket.cpp(211): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  StampData.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\stampdata.cpp(45): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  UserData.cpp
+c:\users\nishigu\documents\sp-2020\lec11\spsystem-2020\libsp\userdata.cpp(50): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?

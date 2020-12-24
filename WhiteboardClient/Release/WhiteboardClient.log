@@ -1,0 +1,5 @@
+﻿  MouseData.cpp
+c:\users\nishigu\documents\sp-2020\lec08\spsocket\include\mousedata.h(6): fatal error C1083: include ファイルを開けません。'opencv2/opencv.hpp':No such file or directory
+  Socket.cpp
+  WhiteboardClient.cpp
+c:\users\nishigu\documents\sp-2020\lec08\spsocket\whiteboardclient\whiteboardclient.cpp(1): fatal error C1083: include ファイルを開けません。'opencv2/opencv.hpp':No such file or directory
